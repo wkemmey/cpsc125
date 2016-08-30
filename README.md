@@ -5,24 +5,34 @@
 # Syllabus
 
 ## CPSC 125 -- Introduction to Discrete Mathematics
-### Fall Semester 2016
-### Tuesdays and Thursdays, 7:00 pm - 8:50 pm
-### UMW Trinkle Hall, Room B6
+
+Fall Semester 2016
+
+Tuesdays and Thursdays, 7:00 pm - 8:50 pm
+
+UMW Trinkle Hall, Room B6
 
 ### Final Exam 7:00 - 9:30 pm, Tuesday, December 13
 
 ## Instructor
+
 Whit Kemmey
+
 wkemmey@umw.edu
+
 Office Hours in Trinkle B6 immediately following class; other times by appointment
 
 ## Course website
+
 http://cpsc125.whitkemmey.com
 
 ## Required Text
+
 _A Cool Brisk Walk through Discrete Mathematics_ by Stephen Davies, Ph.D.
 http://allthemath.org
+
 Please don't print this on UMW printers.
+
 Material from the text may not be covered in its entirety.  Material presented during lectures may also be drawn from or supplemented by sources other than the text.
 
 ## Course Objectives
@@ -105,6 +115,7 @@ In addition to homework, quizzes are good preparation for the exams.  If you are
 ## The Honor Code and this Course
 
 link to UMW honor code
+
 link to department honor code
 
 Violating the honor code is unfair to your classmates and unfair to yourself.  Don't do it.
@@ -124,8 +135,7 @@ Projects are due at the beginning of the class we go over them, but i may look a
 
 ## Basis for determining mid-semester reports
 
-For midterm progress reports, I will look at graded asssignments so far.  For quizzes, I will calculate an interim grade based on points achieved out of points possible, even though that is not the way quizzes will be applied to your final grade.  If your grade is below a C, it's a sign of danger, and I will give you a \U" for your mid-semester grade. Please don't hesitate at
-all to come talk to me about this so we can gure out how you can do better in the course.
+For midterm progress reports, I will look at graded asssignments so far.  For quizzes, I will calculate an interim grade based on points achieved out of points possible, even though that is not the way quizzes will be applied to your final grade.  If your grade is below a C, it's a sign of danger, and I will give you a \U" for your mid-semester grade. Please don't hesitate at all to come talk to me about this so we can gure out how you can do better in the course.
 
 ## Disabilities
 
