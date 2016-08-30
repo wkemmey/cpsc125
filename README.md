@@ -5,11 +5,11 @@
 # Syllabus
 
 ## CPSC 125 -- Introduction to Discrete Mathematics
-## Fall Semester 2016
-## Tuesdays and Thursdays, 7:00 pm - 8:50 pm
-## UMW Trinkle Hall, Room B6
+### Fall Semester 2016
+### Tuesdays and Thursdays, 7:00 pm - 8:50 pm
+### UMW Trinkle Hall, Room B6
 
-## Final Exam 7:00 - 9:30 pm, Tuesday, December 13
+### Final Exam 7:00 - 9:30 pm, Tuesday, December 13
 
 ## Instructor
 Whit Kemmey
