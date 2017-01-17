@@ -1,18 +1,16 @@
 # UMW CPSC 125 Introduction to Discrete Mathematics
 
-[Course home page](http://cpsc125.whitkemmey.com)
-
 # Syllabus
 
 ## CPSC 125 -- Introduction to Discrete Mathematics
 
-Fall Semester 2016
+Spring Semester 2017
 
 Tuesdays and Thursdays, 7:00 pm - 8:50 pm
 
 UMW Trinkle Hall, Room B6
 
-### Final Exam 7:00 - 9:30 pm, Tuesday, December 13
+### Final Exam 7:00 - 9:30 pm ???
 
 ## Instructor
 
@@ -21,10 +19,6 @@ Whit Kemmey
 wkemmey@umw.edu
 
 Office Hours in Trinkle B6 immediately following class; other times by appointment
-
-## Course website
-
-http://cpsc125.whitkemmey.com
 
 ## Required Text
 
@@ -62,25 +56,13 @@ for future courses in computer science.
 
 - Sit in the back if you want to use a laptop.  Don't distract your classmates.
 
-## Git and github.com
-
-Git is version control software which we will use in this class.  I'll explain more about version control and teach you the very basics of git.  Github is a web site that works with git repositories (I'll explain!).  You will need to create an account on github (free) when we get to the first project.
-
 ## Homework
 
 I don't collect or grade homework.  It's for you.
 
-There will be occassional reading assignments to foster class discussion.
-
 Quiz questions will be similar to the homework.  Alternatively, quiz questions may draw from reading assignments.
 
 ## Grading
-
-### Projects
-
-There will be 2-3 group projects during the semester.  These will be programming assignments in Python; we will cover the necessary elements of Python in class.
-
-Projects are worth 20% of your grade; each project counts equally.
 
 ### Exams
 
@@ -88,13 +70,13 @@ There will be two exams during the semester, a midterm and a final exam.  The fi
 
 Only very basic calculators (those that do not include trigonometric functions) may be used on exams.  Students are encouraged to obtain one of these and practice using it for calculations prior to scheduled exams.
 
-Each exam is 40% of your grade, for a total of 80% between the two exams.
+Each exam is 30% of your grade, for a total of 60% between the two exams.
 
-### Quizzes
+### Quizzes, Projects, and Responsive Readings
 
-Short quizzes will be given most classes; these will be very brief, and you will have to be somewhat familiar with the problems to complete them in a timely manner.  Work some homework problems; that is the best preparation for quizzes!
+Short quizzes will be given during class several times throughout the semester; these will be very brief, and you will have to be somewhat familiar with the problems to complete them in a timely manner.  Work some homework problems; that is the best preparation for quizzes!
 
-Each quiz will be worth a small number of points (1-4 points each), but these points will be added to your final grade, kind of like bonus points on an exam.  The things I am trying to accomplish doing quizzes this way:
+Each quiz will be worth a small number of points (usually 6-10 points each), but only points above the 50% mark will be added to your grade.  The things I am trying to accomplish doing quizzes this way:
 
 - Encourage homework, but allow you to choose how much you need to learn the material.
 
@@ -102,25 +84,23 @@ Each quiz will be worth a small number of points (1-4 points each), but these po
 
 - Allow me to gage the progress of the class, and my effectiveness in conveying the material.
 
-This quiz policy means several things:
+There will be several opportunities for small projects and responsive readings outside of class.  Grades on these assignments will be added to your grade for the semester.
+
+This grading policy means several things:
 
 - There is no makeup for missed quizzes.
 
-- You can fail all the quizzes and still get an A in the course.
+- Projects and responsive readings are not accepted late.
 
-- Alternatively, you can do well on most of the quizzes and reduce the pressure of the final exam!
+- There are several approaches to getting an A in the course.
+
+- Doing badly on one assignment does not doom your grade.
 
 In addition to homework, quizzes are good preparation for the exams.  If you are not doing well on the quizzes, come see me for help!
 
 ## The Honor Code and this Course
 
-link to UMW honor code
-
-link to department honor code
-
 Violating the honor code is unfair to your classmates and unfair to yourself.  Don't do it.
-
-Modifying git project history is cheating.  I use it to see who is contributing what.
 
 Quizzes and exams will be administered in class.  All work must be your own.  Any form of assistance from peers or reference materials is cheating.
 
@@ -128,14 +108,12 @@ Other than quizzes and exams, however, feel free to work together, ask questions
 
 ## Late policy
 
-For this class, the only graded thing you can be late on are the projects.
-
-Projects are due at the beginning of the class we go over them, but i may look at them before class and not see last minute contributions.
+Assignments are not accepted late.  They are due at midnight EST on the due date.
 
 
 ## Basis for determining mid-semester reports
 
-For midterm progress reports, I will look at graded asssignments so far.  For quizzes, I will calculate an interim grade based on points achieved out of points possible, even though that is not the way quizzes will be applied to your final grade.  If your grade is below a C, it's a sign of danger, and I will give you a \U" for your mid-semester grade. Please don't hesitate at all to come talk to me about this so we can gure out how you can do better in the course.
+For midterm progress reports, I will look at graded asssignments so far.  For quizzes, I will calculate an interim grade based on points achieved out of points possible, even though that is not the way quizzes will be applied to your final grade.  If your grade is below a C, it's a sign of danger, and I will give you a \U" for your mid-semester grade. Please don't hesitate at all to come talk to me about this so we can figure out how you can do better in the course.
 
 ## Disabilities
 
